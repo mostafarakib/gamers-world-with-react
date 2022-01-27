@@ -1,0 +1,31 @@
+.cart {
+  margin-top: 25px;
+}
+
+.cart-container {
+  border: 1px solid lightseagreen;
+  margin: 10px;
+  border-radius: 10px;
+
+  display: grid;
+  grid-row-gap: 10px;
+}
+
+.btn-shift {
+  border: none;
+  outline: none;
+  background-color: lightseagreen;
+  font-family: inherit;
+  color: #eee;
+  width: 175px;
+  margin: 10px auto;
+  padding: 10px 25px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-shift:hover,
+.btn-shift:active {
+  transform: translateY(-1px);
+}

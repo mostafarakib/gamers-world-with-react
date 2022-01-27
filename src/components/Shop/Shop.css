@@ -1,0 +1,12 @@
+.shop-container {
+  background-color: #eee;
+
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.game-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  padding: 30px;
+}

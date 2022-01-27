@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "FIFA",
+    "genre": "Sports",
+    "company": "ES sports",
+    "ageRestriction": "No",
+    "price": 29.99,
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/FIFA_22_Cover.jpg"
+  },
+  {
+    "id": 2,
+    "name": "PES",
+    "genre": "Sports",
+    "company": "Konami",
+    "ageRestriction": "No",
+    "price": 25.99,
+    "img": "https://www.truegossiper.com/wp-content/uploads/2021/07/3-3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "PUBG",
+    "genre": "Action",
+    "company": "Pubg Corporation",
+    "ageRestriction": "No",
+    "price": 19.99,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYK6Iuv_ozTBlOr4ymiHx-cp7mIdPEb_X0pUDJzzyZ8BVNTBPnCiMLoKDkZD_Lato4aq0&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "FreeFire",
+    "genre": "Action",
+    "company": "Garena",
+    "ageRestriction": "No",
+    "price": 9.99,
+    "img": "https://play-lh.googleusercontent.com/Knw_hAyujH2PKqKtOEM5r8oJ_U-enugflHPpAMUr2T1R6Fp3AUPMYlLKm476BYwNt3Wl=w412-h220-rw"
+  },
+  {
+    "id": 5,
+    "name": "Hitman",
+    "genre": "Action",
+    "company": "IO Interactive",
+    "ageRestriction": "Yes",
+    "price": 39.99,
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4b/Hitman_3_Packart.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Apex Legends",
+    "genre": "Action",
+    "company": "EA",
+    "ageRestriction": "Yes",
+    "price": 9.99,
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Apex_legends_cover.jpg/220px-Apex_legends_cover.jpg"
+  },
+  {
+    "id": 7,
+    "name": "NBA Jam",
+    "genre": "Arcade",
+    "company": "Midway",
+    "ageRestriction": "No",
+    "price": 14.99,
+    "img": "https://play-lh.googleusercontent.com/NjdMhlfvSUJvbJOQ4kGl5DGwkPQ9XTlg8hA9gw_5vGa2Ml6j6LDHRDhcg9MXSDRblQQ"
+  },
+  {
+    "id": 8,
+    "name": "WWE 2K20",
+    "genre": "Action",
+    "company": "2K Sports",
+    "ageRestriction": "Yes",
+    "price": 19.99,
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c9/WWE_2K20_-_Game_cover.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Wreckfest",
+    "genre": "Racing",
+    "company": "Bugbear Entertainment",
+    "ageRestriction": "No",
+    "price": 24.99,
+    "img": "https://image.api.playstation.com/vulcan/img/rnd/202010/1411/SkZZUr3taWJ7pb0LGpm7OaMf.png"
+  },
+  {
+    "id": 10,
+    "name": "Asphalt 9: Legends",
+    "genre": "Racing",
+    "company": " Gameloft",
+    "ageRestriction": "No",
+    "price": 49.99,
+    "img": "https://play-lh.googleusercontent.com/xdLUHNHAquNxy_Ngf27e9GGkiIEMluLePZmYJsqN4ZDScHePRwvVzcRv2qwBfH-p2w"
+  },
+  {
+    "id": 11,
+    "name": "Need for Speed",
+    "genre": "Racing",
+    "company": "EA",
+    "ageRestriction": "No",
+    "price": 29.99,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdj82LkaW3Gs1Qp0EaGztA1QIqWG659zgm4GSL4HY260BKjcyOvFsAxvBKT7nFRBcdik&usqp=CAU"
+  },
+  {
+    "id": 12,
+    "name": "Dirt 5",
+    "genre": "Racing",
+    "company": "Codemasters",
+    "ageRestriction": "No",
+    "price": 14.99,
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Dirt_5_cover_art.jpg/220px-Dirt_5_cover_art.jpg"
+  },
+  {
+    "id": 13,
+    "name": "The Witness",
+    "genre": "Puzzle",
+    "company": "Thekla, Inc.",
+    "ageRestriction": "No",
+    "price": 4.99,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Witness_logo.svg"
+  },
+  {
+    "id": 14,
+    "name": "LIMBO",
+    "genre": "Puzzle",
+    "company": "Playdead",
+    "ageRestriction": "No",
+    "price": 9.99,
+    "img": "https://m.media-amazon.com/images/M/MV5BNGUyODU2NDItMTE0Yy00ZWM5LWIyZGMtYjM1YmFjYjY1Y2MwXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Pokémon Puzzle League",
+    "genre": "Puzzle",
+    "company": "Nintendo",
+    "ageRestriction": "No",
+    "price": 3.99,
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b6/Pok%C3%A9mon_Puzzle_League_Coverart.png"
+  }
+]

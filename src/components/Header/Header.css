@@ -1,0 +1,31 @@
+.header {
+  background-color: lightseagreen;
+  color: #eee;
+}
+.header h1 {
+  font-size: 50px;
+  letter-spacing: 3px;
+  padding-top: 10px;
+}
+.img-container {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+
+  margin-top: 40px;
+  padding: 40px 0;
+}
+.header h2 {
+  padding: 20px;
+  margin: auto 20px;
+  font-size: 40px;
+  letter-spacing: 1px;
+}
+.header-img {
+  display: block;
+  width: 80%;
+  margin: auto;
+}
+.header h3 {
+  font-size: 30px;
+  padding-bottom: 30px;
+}

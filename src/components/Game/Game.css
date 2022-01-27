@@ -1,0 +1,38 @@
+.game {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-row-gap: 5px;
+
+  border: 1px solid lightseagreen;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.game-img {
+  display: block;
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.btn-purchase {
+  border: none;
+  outline: none;
+  background-color: lightseagreen;
+  font-family: inherit;
+  color: #eee;
+  width: 160px;
+  margin: 0 auto;
+  padding: 10px 25px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-purchase:hover,
+.btn-purchase:active {
+  transform: translateY(-1px);
+}
